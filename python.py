@@ -6,7 +6,7 @@ def guess_number():
     attempts = 7
 
     print("Введіть перше число: ")
-    print(f"У тебе є {attempts} спрб ")
+    print(f"У тебе є {attempts} спрoб ")
 
     while attempts > 0:
         try:
