@@ -7,6 +7,7 @@ def calculatorsymb():
 
         if answer == "yes":
             print("You agreed. The symbol is:", text)
+            print("The lenght of thext is:", len(text))
             return
         elif answer == "no":
             print("You can change the text.")
