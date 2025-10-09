@@ -14,6 +14,7 @@ def main():
             print("invalid ty")
         else:
             print("Invalid answer. Please type like in choice.")
+        exit()
 
 
 main()
