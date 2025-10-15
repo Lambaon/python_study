@@ -36,7 +36,7 @@ def calculator():
                 return ()
         else:
             print("Invalid choice-_-")
-        exit()
+        exit()  # exit
 
 
 calculator()
